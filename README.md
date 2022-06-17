@@ -1,3 +1,6 @@
+![HELLO, FOLKS!](https://user-images.githubusercontent.com/90114136/174391661-6640dff1-c6a9-4e5a-b26c-b00ab338a130.gif)
+
+
  <div align="center">
     <a href="https://github.com/WMassuci">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WMassuci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
